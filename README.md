@@ -14,4 +14,4 @@ Mi nombre es Xabier Arrondo, estudiante de Birt. Para cualquier duda o sugerenci
 
 ## Referencias
 - [StackOverflow](https://stackoverflow.com)
-- [C# Programimng guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+- [C# Programming guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
