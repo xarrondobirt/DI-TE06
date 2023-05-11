@@ -19,6 +19,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{175C535D-B030-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{A33DA527-F643-4808-98CB-ABF5AE7E18B6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{3D31B6C2-9C4B-4423-9809-1FC8F3E3C124}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		assets\help\help.chm = assets\help\help.chm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
