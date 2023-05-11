@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{3D31B6
 		assets\help\help.chm = assets\help\help.chm
 	EndProjectSection
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "installer", "installer\installer.vdproj", "{388B6563-90F7-4B29-ABAD-8E923E243F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,8 @@ Global
 		{A33DA527-F643-4808-98CB-ABF5AE7E18B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A33DA527-F643-4808-98CB-ABF5AE7E18B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A33DA527-F643-4808-98CB-ABF5AE7E18B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388B6563-90F7-4B29-ABAD-8E923E243F83}.Debug|Any CPU.ActiveCfg = Release
+		{388B6563-90F7-4B29-ABAD-8E923E243F83}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

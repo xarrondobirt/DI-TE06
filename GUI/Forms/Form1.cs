@@ -212,7 +212,6 @@ namespace GUI
 
         private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string ruta = Application.StartupPath;
             Help.ShowHelp(this, "help/help.chm");
         }
     }
